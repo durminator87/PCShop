@@ -1,0 +1,58 @@
+﻿@model IEnumerable<PCShop.Models.Product>
+
+@{
+    ViewBag.Title = "All Products";
+}
+
+<h3><b>Index of products</b></h3>
+
+
+<table class="table table-bordered table-hover table-striped">
+    <tr class="info">
+        <th>
+            Category
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            Price
+        </th>
+        <th>
+            Details
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Details)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ProductID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ProductID })
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    <p>
+        @Html.ActionLink("Create a new Product", "Create")
+    </p>
+</div>
+<div>
+    <button type="button" class="btn btn-primary" onclick="location.href='/Home/Admin'">Back to Admin</button>
+</div>

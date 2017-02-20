@@ -1,0 +1,42 @@
+﻿@using PCShop.Models;
+@model PCShop.Models.IssueProduct
+
+@{
+    List<IssueProduct> pr = ViewData["issueBooks"] as List<IssueProduct>;
+    ViewBag.Title = "Index";
+}
+<br />
+
+<h4><b>All Records</b></h4>
+
+<br />
+
+<table class="table table-bordered table-hover table-striped">
+    <thead>
+        <tr class="info">
+            <td align="center">Order ID</td>
+            <td align="center">Customer </td>
+            <td align="center">Product </td>
+            <td align="center">Quantity</td>
+            <td align="center">Price</td>
+            <td align="center">Saldo</td>
+            <td align="center">IssueBook Date</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in pr)
+        {
+            <tr>
+                <td width="50" align="center">@item.CustomerID</td>
+                <td align="center">@item.Customer.Name  @item.Customer.Surname</td>
+                <td align="center">@item.Product.Name</td>
+                <td align="center">@item.Quantity</td>
+                <td align="center">@item.Price</td>
+                <td align="center">@item.Saldo</td>
+                <td align="center">@item.IssueDate</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<a class="btn btn-primary" href="/Home/Admin">Back To Admin</a>

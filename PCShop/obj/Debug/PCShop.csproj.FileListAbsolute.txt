@@ -1,0 +1,135 @@
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\PCShop.dll.config
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\PCShop.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\PCShop.pdb
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\EntityFramework.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Helpers.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Mvc.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Razor.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Webpages.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\EntityFramework.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Razor.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Webpages.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Helpers.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Mvc.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\obj\Debug\PCShop.Migrations.InitialCreate.resources
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\obj\Debug\PCShop.csproj.GenerateResource.Cache
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\obj\Debug\PCShop.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\obj\Debug\PCShop.pdb
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Newtonsoft.Json.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Owin.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Net.Http.Formatting.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Http.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Http.WebHost.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Newtonsoft.Json.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Net.Http.Formatting.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Http.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\System.Web.Http.WebHost.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abdurrahman\Desktop\PCShop\PCShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\PCShop.dll.config
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\PCShop.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\PCShop.pdb
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\EntityFramework.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Newtonsoft.Json.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Owin.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Net.Http.Formatting.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Helpers.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Http.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Http.WebHost.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Mvc.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Razor.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Webpages.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\EntityFramework.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\Newtonsoft.Json.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Net.Http.Formatting.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Http.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Http.WebHost.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Razor.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Webpages.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Helpers.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\bin\System.Web.Mvc.xml
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\obj\Debug\PCShop.Migrations.InitialCreate.resources
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\obj\Debug\PCShop.csproj.GenerateResource.Cache
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\obj\Debug\PCShop.dll
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\obj\Debug\PCShop.pdb
+C:\Users\Abdurrahman\Documents\Visual Studio 2013\Projects\PCShop\PCShop\obj\Debug\PCShop.csprojResolveAssemblyReference.cache
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\PCShop.dll.config
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\PCShop.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\PCShop.pdb
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\EntityFramework.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\EntityFramework.SqlServer.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.Security.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Newtonsoft.Json.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Owin.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Net.Http.Formatting.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Helpers.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Http.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Http.WebHost.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Mvc.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Razor.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Webpages.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Webpages.Razor.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\EntityFramework.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\EntityFramework.SqlServer.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.Security.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\Newtonsoft.Json.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Net.Http.Formatting.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Http.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Http.WebHost.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Razor.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Webpages.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Webpages.Razor.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Helpers.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\bin\System.Web.Mvc.xml
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\obj\Debug\PCShop.csprojResolveAssemblyReference.cache
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\obj\Debug\PCShop.Migrations.InitialCreate.resources
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\obj\Debug\PCShop.csproj.GenerateResource.Cache
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\obj\Debug\PCShop.dll
+C:\Users\dula_\Desktop\New folder (2)\Projekti\PCShop\PCShop\obj\Debug\PCShop.pdb

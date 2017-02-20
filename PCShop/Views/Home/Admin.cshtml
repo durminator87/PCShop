@@ -1,0 +1,26 @@
+﻿@using PCShop.Models;
+@model IEnumerable<PCShop.Models.Admin>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<br />
+
+<div class="">
+    <h4><b>PC Shop Admin Site</b></h4>
+    <a href="/History/Index" class="btn btn-info">Purchase History</a>
+    <a href="/Product/Index" class="btn btn-info">All Products</a>
+    <a href="/Categories/Index" class="btn btn-info">All Categories</a>
+</div>
+<div>
+    <a href="/History/Statistics" class="btn btn-info">See statistics</a>
+</div>
+<br />
+
+<div class="list-group col-lg-6" role="group">
+   <div>
+        <a class="btn btn-primary" href="/Home/Create">Create New Admin</a>
+        <a class="btn btn-danger" href="/Home/Logout">Logout</a>
+    </div>
+</div>

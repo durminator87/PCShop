@@ -1,0 +1,59 @@
+﻿@using PCShop.Models
+
+@model ProductVM
+@{
+    ViewBag.Title = "All Products";
+}
+
+<a href="/PCShop/Logout" class="btn btn-danger">Logout</a>
+
+<h3><b>Browse: </b></h3>
+<div>
+    <form>
+        @Html.DropDownListFor(m => m.CategoryID, Model.CategoriesAsSelectListItem)
+        <input type="submit" value="Filter" name="SubmitButton" />
+    </form>
+</div>
+
+<div>
+    <table class="table table table-bordered table-hover table-striped">
+        <tr class="info">
+            <th>
+                Category
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Details
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Details)
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/PCShopCart/AddToCart?id=@item.ProductID">Add to Cart</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+

@@ -1,0 +1,40 @@
+﻿@model IEnumerable<PCShop.Models.Category>
+
+@{
+    ViewBag.Title = "All Categories";
+}
+
+<h3><b>Index of categories</b></h3>
+
+
+<table class="table table-bordered table-hover table-striped">
+    <tr class="info">
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.CategoryID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CategoryID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CategoryID })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    @Html.ActionLink("Create a new Category", "Create")
+</p>
+
+<div>
+    <button type="button" class="btn btn-primary" onclick="location.href='/Home/Admin'">Back to Admin</button>
+</div>
